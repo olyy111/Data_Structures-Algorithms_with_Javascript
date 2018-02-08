@@ -1,0 +1,25 @@
+{
+  "name": "data_structures-algorithms_with_javascrip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape ./test/bst.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olyy111/Data_Structures-Algorithms_with_Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olyy111/Data_Structures-Algorithms_with_Javascript/issues"
+  },
+  "homepage": "https://github.com/olyy111/Data_Structures-Algorithms_with_Javascript#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
